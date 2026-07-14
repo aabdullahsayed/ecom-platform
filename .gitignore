@@ -1,0 +1,22 @@
+# ASP.NET Core
+**/bin/
+**/obj/
+
+# React / Node
+**/node_modules/
+**/dist/
+**/build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
