@@ -1,0 +1,6 @@
+@Dekhoo_HostAddress = http://localhost:5129
+
+GET {{Dekhoo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
